@@ -1,0 +1,5 @@
+com\springsecurity\config\WebAppInitializer.class
+com\springsecurity\controller\HelloWorldController.class
+com\springsecurity\config\SecurityInitializer.class
+com\springsecurity\config\MySecurityConfig.class
+com\springsecurity\config\MyAppConfig.class
